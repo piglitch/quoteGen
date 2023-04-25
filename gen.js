@@ -18,6 +18,7 @@ const quotes = [{
     person: `Zlatan Ibrahimovich`
 },  {
     quote: `“Then Guardiola started his philosopher thing. I was barely listening. Why would I? It was advanced bulls**t about blood, sweat and tears, that kind of stuff”.`,
+    
     person: `Zlatan Ibrahimovich`
 },];
 
